@@ -15,7 +15,7 @@ int main() {
                 D++;
         }
     if(A>D)
-        cout<<"Anton"<<endl;
+        cout<<"Anton"<<endl; 
     if(A<D)
         cout<<"Danik"<<endl;
     if(A==D)
