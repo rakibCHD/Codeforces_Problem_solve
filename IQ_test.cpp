@@ -31,7 +31,7 @@ int main() {
         cout << odd_index << endl;
     }
 
-    return 0;
+    return 0; 
 }
  
  
