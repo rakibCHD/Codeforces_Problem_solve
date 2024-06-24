@@ -22,6 +22,6 @@ int main() {
         cout<<"Friendship"<<endl;
 
     return 0;
-}
+} 
     
     
