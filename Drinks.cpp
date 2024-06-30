@@ -23,5 +23,5 @@ int main() {
     cout << setprecision(10) << cocktail_percentage << endl;
 
     return 0;
-}
+} 
     
