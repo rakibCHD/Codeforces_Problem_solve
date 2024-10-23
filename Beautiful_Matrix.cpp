@@ -28,7 +28,7 @@ int main() {
 
     cout << moves << endl;
 
-    return 0; 
+    return 0; b
 }     
      
   
